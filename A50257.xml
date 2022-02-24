@@ -1,0 +1,549 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the switch for the snake A book so called. Discovering the weakness of the Switch, which the leading Quakers (of the second days meeting in London for government) have lately (as I am told,) given into the hands of each Parliament Man. Vice is nourished, and gets life by covering it, saith a heathen author; even so it is with errors in religion. Humbly shewing, that it is impossible, that the pens now in controversie, against us Quakers, should be put a stop to, before there's an order given forth, (from the second days meeting) for the reformation of our numerous preachers in the country. And also a book of retractions of all the errors in our Friends printed books, be published, with an appendix and postscript. By William Mather, a lover of (the well meaning persons, especially among) that people.</title>
+            <author>Mather, W. (William), fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50257</idno>
+            <idno type="STC">Wing M1284</idno>
+            <idno type="STC">ESTC R221796</idno>
+            <idno type="EEBO-CITATION">99833053</idno>
+            <idno type="PROQUEST">99833053</idno>
+            <idno type="VID">37528</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37528)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2190:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the switch for the snake A book so called. Discovering the weakness of the Switch, which the leading Quakers (of the second days meeting in London for government) have lately (as I am told,) given into the hands of each Parliament Man. Vice is nourished, and gets life by covering it, saith a heathen author; even so it is with errors in religion. Humbly shewing, that it is impossible, that the pens now in controversie, against us Quakers, should be put a stop to, before there's an order given forth, (from the second days meeting) for the reformation of our numerous preachers in the country. And also a book of retractions of all the errors in our Friends printed books, be published, with an appendix and postscript. By William Mather, a lover of (the well meaning persons, especially among) that people.</title>
+                  <author>Mather, W. (William), fl. 1695.</author>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Gathered in 2's.</note>
+                  <note>With numerous errors in pagination.</note>
+                  <note>"An appendix" on p. 10 is signed by J.W. at end.</note>
+                  <note>In response to Wyeth, Joseph.  Anguis flagellatus: or, A switch for the snake.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wyeth, Joseph, 1663-1731. --  Anguis flagellatus --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37528:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE Switch for the Snake.</p>
+            <p>A Book ſo called.</p>
+            <p>Diſcovering the <hi>Weakneſs</hi> of the <hi>Switch,</hi> which the Leading <hi>Quak<g ref="char:EOLhyphen"/>ers</hi> (of the Second Days Meeting in <hi>LONDON</hi> for Govern<g ref="char:EOLhyphen"/>ment) have lately (as I am told,) given into the Hands of each Parliament Man.</p>
+            <p>
+               <hi>Vice is Nouriſhed, and gets Life by Covering it,</hi> ſaith a Heathen Au<g ref="char:EOLhyphen"/>thor; even ſo it is with <hi>Errors</hi> in Religion.</p>
+            <p>Humbly ſhewi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g, that it is Impoſſible, that the Pens now in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontroverſie, againſt us <hi>Quakers,</hi> ſhould be put a ſtop to, before there's an O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der given forth, (from the ſecond Days Meeting) for the Reformation of our Numerous <hi>Preachers</hi> in the Country.</p>
+            <p>And alſo a Book of Retractions of all the Errors in our Friends Printed Books, be Publiſhed, with an Appendix and Poſtſcript.</p>
+            <p>By <hi>William Mather,</hi> a lover of (the well meaning Perſons, eſpeci<g ref="char:EOLhyphen"/>ally among) that People.</p>
+            <q>
+               <bibl>Prov. <hi>XXVII. 6.</hi>
+               </bibl> Faithful are the Wounds of a Friend: But the Kiſſes of an Enemy are deceitful.</q>
+            <p>Printed in the Year 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb facs="tcp:37528:2"/>
+            <pb n="4" facs="tcp:37528:2"/>
+            <head>AN ANSWER TO THE Switch for the Snake, <hi>&amp;c.</hi>
+            </head>
+            <p>Note that the Figures on the left Hand Margin, Direct to the <hi>Book,</hi> called the <hi>SWITCH.</hi>
+            </p>
+            <p> 
+               <milestone type="tcpmilestone" unit="unspecified" n="52"/> 
+               <hi>IS not the Soul without begining,</hi>
+               <note place="margin">C. Fox, Great Miſte<g ref="char:EOLhyphen"/>ry, P. 90. 229. P. 273</note> 
+               <hi>comimg from God, infinite in it ſelf?</hi>
+            </p>
+            <p> 
+               <milestone type="tcpmilestone" unit="unspecified" n="53"/> 
+               <hi>It is not horrid Blaſphemy, to ſay the Soul is Part of God is a Part of God.</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="100"/>
+            </p>
+            <p>Anſwer, <hi>If the Soul is without beginning, and is a Part of God, then not Created, contrary to</hi> Gen, 1.</p>
+            <p>Are not ye <hi>[the Miniſters]</hi> in the Preſumption, and uſurpt Authority, <milestone type="tcpmilestone" unit="unspecified" n="79"/> to Preach, or Teach, <milestone type="tcpmilestone" unit="unspecified" n="241"/> that have not the immediate Revelation, as the Apoſtles had?</p>
+            <p>Anſwer, <hi>To be ſure it is great Preſumption, in too many Ignorant Preachers,</hi> (in this Age) <hi>that pretend they have the ſame immediate Revelation, as the Apoſtles had; Yea, even the ſame degree; for ſaith</hi> G. Fox, (<hi>in the ſame Book,</hi> P. 213. <hi>to his op<g ref="char:EOLhyphen"/>poſer</hi>) Thou canſt not know Scripture, but by the ſame degree of the Spirit the Prophets and the Apoſtles had.</p>
+            <p>And ſaith he, <q>They are Conjurers and Diviners, and their teaching is from Conjuration, which is not ſpoken from the Mouth of the Lord; and that he that hath the ſame Spirit, that raiſed Jeſus Chriſt, is equal with God.</q> See P. 7. and 8. in Sauls Errand, <hi>&amp;c.</hi>
+            </p>
+            <p>Anſwer, <hi>by this Doctrine, every Man is equal with God, for do not you,</hi> J. W. <hi>and</hi> G. W. <hi>hold, that every Man hath a meaſure of that Spirit.</hi>
+            </p>
+            <p>But, if all <hi>Preachers</hi> are Conjurers, that Preach not from the Mouth of the Lord, then that Name muſt needs belong to <hi>G. Fox,</hi> in the firſt place, (as above) is manifeſt, becauſe his Doctrines differ from Scripture.</p>
+            <p>Next, <hi>Joſeph Clark,</hi> mentioned in or about, <hi>P.</hi> 81. in the defence of the <hi>Snake,</hi> (a Book ſo called,) but I do not reckon him a real Conjurer (tho' he is one, according to <hi>G. Fox</hi>'s Sence) becauſe he was ſo very much miſtaken, by his viſion, that ſo much ſtrengthened him, to bear his Teſtimony againſt Tyths, for he told me, he ſaw the Prieſt that ſued him, and thoſe belonging to him, Melt in his ſight to nothing, adding, I care not, if the <hi>Jaylor</hi> or the <hi>Bayliffe</hi> get my Money, but for the Prieſt he ſhall never have any thing of mine, for <hi>John Field,</hi> one of
+<pb n="4" facs="tcp:37528:3"/> the ſecond days meeting in <hi>LONDON,</hi> told me, he could put me in a way, the Prieſt ſhould never get any of my Goods.</p>
+            <p>In Brief, a little before the Aſſizes (at <hi>Bedford) Joſeph</hi> expecting a Tryal for Tyths, <hi>John</hi> ſent him down a Copy of the Bill that the Prieſt had put in againſt him, with a Letter from <hi>John</hi> (which <hi>Joſeph</hi> got me to Read) wherein he named <hi>Joſephs</hi> Counceller to Plead for him, and that he had paid him 10 <hi>s.</hi> and adviſed <hi>Joſeph</hi> to give him 10 <hi>s.</hi> more at the Aſſizes, and alſo <hi>Joſeph</hi> went up to <hi>London,</hi> to take Advice of <hi>John</hi> about it.</p>
+            <p>About two Days before the Aſſize, <hi>Joſeph</hi> came to my Houſe, and deſired me to make him a Writing, to ſecure his Goods from the Prieſt; if upon Tryal, the Prieſt ſhould caſt him.</p>
+            <p>My anſwer was, (I very well remember,) <hi>viz. What doſt thou come to me, to ſe<g ref="char:EOLhyphen"/>cure thy Goods, did not</hi> John Field <hi>promiſe to do that for thee?</hi> Well, ſaith he, <hi>it's now too late, I would have thee do it for me:</hi> then I told him, it could not be done, except he did quit himſelf of the poſſeſſion of his Goods, and Aſſign his right to ſome Perſon or other.</p>
+            <p>This he would not believe, until he got me to go with him to a Lawyer, and there he agreed to bring the Leaſe of his Farm, to the Lawyer, (which was one day before the Aſſizes) but his Leaſe he left at home, and did ride to one of his Brothers to be an Arbitrator on his ſide to agree it, and then it was given out, that <hi>Joſeph</hi> did not agree with the Prieſt, it was his Brother. And I being with him af<g ref="char:EOLhyphen"/>ter the agreement, he ſaid to me, <hi>he could now pay Tyths as well as other Taxes:</hi> the Prieſt (who being reputed a very moderate Man, and well ſpoken of by ſome Quakers) ſent his Son to School to me ſome time after this agreement, and the Young Man ſaid to me, <hi>That Joſeph was as good a Man as they had in the Town, for the Payment of Tyths.</hi>
+            </p>
+            <p>But ſince theſe things, <hi>Joſeph</hi> went to a Monthly Meeting, to <hi>Ampthel,</hi> to An<g ref="char:EOLhyphen"/>ſwer for himſelf upon ſuſpicion, of being a long Practiſer of a very foul Sin, I am aſhamed to name it; the divers Witneſſes, were very free to tell it in private, and ſomewhat became publick, <hi>viz.</hi> To the Elders of that meeting, that when he went from home, he muſt have a Man lye in Bed with him, and that he uſed to Kiſs, and get upon ſuch Men as he lay with, and made them Sweat; and I heard two Men ſay, that with him, they had ſuch a Nights Lodging as they never had in their Lives, adding, they would never Lye with him more.</p>
+            <p>Now <hi>Joſeph</hi> being Examined, of ſome of theſe Actions, could give no better Anſwer than this, (as I am told) <hi>It was only love to the Creature,)</hi> ſo the Meeting could do no leſs than bid him give over Preaching in Meetings, his Anſwer was, <hi>I muſt obey God rather than Man.</hi> This <hi>Joſeph</hi> continues to Preach in his own Houſe (and People come to hear him) every other firſt Day, as I am told.</p>
+            <p>Reader, bare with me (for I deſire a Reformation,) and I am the Larger upon this, becauſe the Ruling Elders and Preachers, have Written Laws, which they call Preſcriptions, which ſome held are to keep all out of miſcarriages, or to that purpoſe; when Alas! They have loſt their Power (if ever they had any) to ſilence the Young Nonſenſical Preachers, yet ſuch Elders will ſometimes in private to others, call them half handed <hi>Preachers,</hi> and wiſh they would be ſilent.</p>
+            <p>Now a little more of the ſaid <hi>Joſeph,</hi> once before, he was to Dine at my Houſe, and had ſat down, ſaid, amongſt other words, <hi>O God thou haſt Written thy Law,
+<pb n="5" facs="tcp:37528:3"/> in our Hearts, as with the point of a Diadem, (i. e.</hi> a Kings Crown.) And when <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> begins to Preach, he ſaith, this and this ſprings, or ariſes in my Heart; (that is) what comes next to his Tongues end; and becauſe he Thunders out his Words ſo faſt, the Ignorant hearers conclude it comes from the Life and Power of God; (this is darkneſs it ſelf.)</p>
+            <p>Thus too many well meaning Souls have been ſtrongly deluded, by heaping up unto themſelves ſuch Ignorant Preachers (having Itching Ears, as the Apoſtle ſaith, (2 <hi>Tim.</hi> 4.3.) that they cannot endure ſound Doctrine, when they (o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) hear <hi>G. Keith</hi> Preach it, as lately near <hi>Bedford,</hi> and to manifeſt their drinke of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Doctrine, one of them, a Woman Preacher, ſtood up, reflecting againſt <hi>George,</hi> a<g ref="char:EOLhyphen"/>mongſt other Words, as near as I and others preſent could remember, ſhe Preached againſt the Wiſdom of the World, and Prieſts and Profeſſors Knowledge, that profits not, <hi>And that it was not needful that Chriſt ſhould Live in Heaven, or Dye on Earth, but that he ſhould Live and Rule in us,</hi> &amp;c. Likewiſe ſhe that reflected lately, ſaid t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one of her Neighbours (as I am credibly inform'd,) that what ſhe ſpoke in Meetings, was only that which did ariſe from within, and that ſhe had not read a Chapter in the Bible this three Years.</p>
+            <p>Therefore ſuch Ignorant Preachers have got ſuch a way of tuning out the words that comes next to their Tongues end, that ſo Charmes the fancies of ſome of the hearers, that they conclude the words that ſo ſpring out of their Mouths, are <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good News from Heaven, agreeable to <hi>G. Fox,</hi> who ſaith, <hi>viz. The<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> none <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Glory and a Heaven, but within them,</hi> Gre. Miſt. p. 214.</p>
+            <p>But who ſo blind, as to believe that their ſinging Preachings come immediately from Heaven, or Gods Holy Spirit, when they ſo ſeldom mind, or meditate in the Holy Scriptures, which were given forth from Gods Spirit.</p>
+            <p>Therefore it is my Faith, that if ſuch Preachers, as are Ignorant of the F<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mental Doctrines of Chriſtianity, were ſilenced, and that in Country M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeting <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Religious Worſhip, (a ſound preacher being abſent,) One in the Meeting, after <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time of ſilently waiting upon God to grow in Grace, did read a Chapter or two in the Bible to Meditate upon; or a Sermon and Prayer (in the fear of God) in the Family Devotions of that honeſt Man <hi>Theophilus Dorrington,</hi> the People would ſoon ſhake off their Ignorance, by the help of Grace and Holy Scriptures.</p>
+            <p>
+               <hi>Object.</hi> But if ſome conceited Ignorant Preachers ſhould ſay to me, thus: Th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wouldeſt bring us back again into <hi>Egypt</hi> to the Prieſts, we will not ſo much as look into their Writings, their <hi>Babyloniſh</hi> Ware, for one of our Teachers has told us, they are Merchants of <hi>Babylon,</hi> ſucceſſors of <hi>Simon</hi> and <hi>E<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mas</hi> the Sorcerers, <hi>Acts</hi> 8. and 13. And further, he Propheſied about 40 Years ag<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, that their downf<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll was near, for ſaith he in <hi>P.</hi> 19. <hi>The Wrath of God Almighty, is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to be trod, in which you are to be caſt, for the Lord hath ſpoken it, and he will not repent, a trebble Porti<g ref="char:EOLhyphen"/>on of the Plagues of God Almighty, are you to have above all others,</hi> &amp;c. <hi>R. Crane</hi>'s ſtrict account of the Merchants of <hi>Babylon,</hi> Printed in 1660.</p>
+            <p>
+               <hi>Anſwer,</hi> By the falſe Propheſie of <hi>R. C.</hi> we may learn, that blind Zeal and Malice doth excite ſome to Curſe in the Name of the Lord, as <hi>G. W.</hi> has done <hi>G. K.</hi> Theſe dreadful Curſes were to de<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r us Ignorant Quakers from ſo much as opening to read a Prieſts Book, fearing <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cheats would be diſcovered.</p>
+            <p>But notwithſtanding our Teachers fiery Zeal againſt the Prieſts (as they call them in deriſion,) the ſoundeſt Doctrine of Chriſtianity had been loſt in this Nation (th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="6" facs="tcp:37528:4"/> too many of them do not Live up to their Doctrin,) had not ſome of the beſt of them, explain'd them according to the Holy Scriptures, (which is ſo little minded by too many;) Witneſs Dr. <hi>Fowlers</hi> Deſign of Chriſtianity, Dr. <hi>Scotts</hi> Works, but more eſpecially his Fifth and laſt Vol. of the Chriſtians Life, which I recom<g ref="char:EOLhyphen"/>mend to my Reader to buy them, if he can ſpare Money.</p>
+            <p>I ſay, the Family Devotions above mentioned, may be very uſefull, (to unpreju<g ref="char:EOLhyphen"/>diced minds) to be uſed, in our Religious Meetings in the Country.</p>
+            <p>And alſo in Families, every Evening, where the Maſter of the Family has not the Gift of utterance (as many have not.) <hi>Heart Prayer</hi> is in uſe at all times, which <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> our own Souls; but Prayers read in the Families, in Words ſuitable to the Divine Majeſty ought to be in ſuch Words, as may excite the Hearers to ſtand in awe of their Creator, by fearing to Sin againſt ſo good a God, that gives us all good things.</p>
+            <p>But the Prayers as we Quakers uſe to hear (it's ſaid) comes immediately from Gods Spirit, which is impoſſible, for if they did, there would be a begging of God Par<g ref="char:EOLhyphen"/>don for their Sins, and the Sins of the Members of the Meeting.</p>
+            <p>That we ſhould ſo long be Enemies to Forms of Prayer, (is to be wondered at) when our dear Saviour made one for us, <hi>When you Pray,</hi> ſaith he, ſay, <hi>Our Father which art in Heaven,</hi> &amp;c. <hi>Luke</hi> 11.2. and this we never uſe in our Meetings, nor in Families, and indeed moſt of us uſe no Prayer in their Families, that Wrath we muſt expect, without Repentance, according to <hi>Jere.</hi> 10 25. <hi>Pour out thy fury upon the Heathen, and the Families that call not on thy Name.</hi>
+            </p>
+            <p> 
+               <milestone type="tcpmilestone" unit="unspecified" n="200"/> But that the outward Perſon, that ſuffered,<note place="margin">
+                  <hi>Will. Pens</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Apology. <hi>P.</hi> 146.</note> was properly the Son of God, we utterly deny.</p>
+            <p>
+               <hi>Anſwer,</hi> If this be true, <hi>Nathaniel</hi> was miſtaken, who ſaid, <hi>Thou art the Son of God,</hi> John 1.49. Alſo <hi>Simon Peter,</hi> who ſaid, <hi>Thou art Chriſt, the Son of the l<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing God,</hi> Matt. 16.16. as likewiſe was <hi>the voice out of the Cloud,</hi> which ſaid, <hi>This i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my Beloved Son,</hi> Matt. 17.5.</p>
+            <p>Your Imagined God beyond the Stars,<note place="margin">
+                  <hi>C. At<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inſo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Sword of the Lord draws <hi>P.</hi> 5.</note> and your Carnal Chriſt (which you would make apppear thro' your Hea<g ref="char:EOLhyphen"/>theniſh Philoſophy) is utterly denyed. <milestone type="tcpmilestone" unit="unspecified" n="204"/> 
+               <hi>That Chriſt is God and Man, in one Perſon,</hi> is a Lye.</p>
+            <p>
+               <hi>Anſwer,</hi> Did you ever hear that any Miniſter profeſſing Chriſtianity, did go a<g ref="char:EOLhyphen"/>bout to make Chriſt appear thro Heatheniſh Philoſophy? and to your denying that Chriſt is God and Man, Read <hi>Iſa.</hi> 9.6. <hi>Jo.</hi> 1.14. and 20.28. <hi>Heb.</hi> 2.14, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 8.3. 1 <hi>Tim.</hi> 3.16. <hi>Ph.</hi> 2.5, 6, 7. <hi>Rom.</hi> 9.5. 1. <hi>Jo.</hi> 5.20. with many others, that prove he is.</p>
+            <p>Doth not the Name of <hi>Chriſt,</hi> belong to the whole Body, and to every Member?<note place="margin">
+                  <hi>Iſaac Penington</hi> to Profeſſors, <hi>P.</hi> 27.</note> Chriſt is not aſhamed to call them Brethren, <milestone type="tcpmilestone" unit="unspecified" n="207"/> 
+               <hi>Heb.</hi> 12 10. nor is he aſhamed, to give them the Name <hi>Chriſt,</hi> together with him, <hi>Heb.</hi> 2.11.</p>
+            <p>
+               <hi>Anſwer,</hi> I do not yet read in the Scriptures that Jeſus called any of his followers <hi>Chriſt.</hi>
+            </p>
+            <pb n="7" facs="tcp:37528:4"/>
+            <p>
+               <hi>Queſtion,</hi>
+               <note place="margin">Ed. Burrows <hi>Works,</hi> P. <hi>149.</hi>
+               </note> (to a Quaker) <hi>Is that very Man</hi> [Jeſus] <hi>with that very Body within you,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="223"/> Yea or N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y? <hi>Anſwer, the very Chriſt of God, is within us, we dare not deny him.</hi>
+            </p>
+            <p>The Sufferings of the People of God (Quakers) in this Age, is greater ſufferings, and more unjuſt than in the Days of Chriſt, <milestone type="tcpmilestone" unit="unspecified" n="210"/> or the Apoſtles,<note place="margin">F. B. <hi>273.</hi>
+               </note> what was done to Chriſt, or the Apoſtles, was chiefly done by a Law, and in great part, by the due executing of a Law.</p>
+            <p>
+               <hi>Anſwer,</hi> Surely, this muſt be a great miſtake in <hi>Ed. Burrows,</hi> for <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Quak<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I can hear of) had his Hands and Feet N<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> to a Tree o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Croſs, and there hang till Death, as the hard Hearted <hi>Romans</hi> did, by the <hi>Jews</hi> procurement (of ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<g ref="char:EOLhyphen"/>er Hearts) Crucify our ever Bleſſed Saviour; and alſo we read, that three of his followers ſuffered ſo, as <hi>Phillip, Andrew</hi> and <hi>Simon,</hi> and that <hi>John</hi> was thrown into a T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of Scalding Oil, and by the Power of Jeſus Chriſt, took no hurt; and like<g ref="char:EOLhyphen"/>wiſe <hi>Mark</hi> the <hi>Evangeliſt</hi> (it's ſaid) had a Rope tyed about his Neck, and was drawn through the Streets of <hi>Alexandria</hi> until his Fleſh was re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>They that are falſe, Preach Chriſt without,<note place="margin">William Smiths Primer, P. <hi>8.</hi>
+               </note> and bid People believe in him, <milestone type="tcpmilestone" unit="unspecified" n="219"/> as he is in Heaven above.</p>
+            <p>But if we make but a ſmall amendment, (ſay you in <hi>P.</hi> 220) of the word, only and then read it thus;</p>
+            <p>They that are falſe, Preach Chriſt without, and bid People believe in him [on<g ref="char:EOLhyphen"/>ly] as he is in Heaven: (very good.)</p>
+            <p>Then <hi>George Whitehead,</hi> now that you have found out the way of amendments, thou mayeſt do well to follow on to the end, that none may Write more againſt it.</p>
+            <p>As Firſt, begin in P. 65. in thy <hi>Truth defending the Quakers,</hi> and there uſe the word (only) as,</p>
+            <p>
+               <hi>That Faith in Chriſt without Men, is contrary to the Apoſtles Doctrine.</hi>
+            </p>
+            <p>And ſo it greatly behoves th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to do, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing thou haſt given ſuch a large Teſti<g ref="char:EOLhyphen"/>mony to Chriſt <hi>without us,</hi> in P. 544 in the <hi>Switch,</hi> contrary to what thou haſt for<g ref="char:EOLhyphen"/>merly Printed, and yet in all thy large Confeſſion, thou doſt not own him now to be in Heaven without us, in the true nature of Man, and in the true and re<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Bo<g ref="char:EOLhyphen"/>dy wherein he ſuffered, that he will come again in that Body <hi>without us,</hi> to Judge the Quick and the Dead at the laſt Day.</p>
+            <p>And if thou wilt (by the help of Divine Grace) make a Book of Retractions, of all things that's contrary to the Doctrines of Chriſt Jeſus in Holy Scripture, in thi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and other Friends Books, (and get the Members of the ſecond Days Meeting in <hi>London</hi> to ſign it,) it will (as I may ſay) take the Weapons out of the Hands of all thoſe tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay, <hi>The Quakers hold damnable Errors.</hi>
+            </p>
+            <p>I am not without hope, but that thou mayeſt be an Inſtrument in this good work, which if thou lives to ſee it accompliſhed, thou wilt leave a <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> behind thee; for thou m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t needs acknowledge thou art ſubject to <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll as <hi>Samuel, Eliab</hi> and <hi>Elijah,</hi> who, you ſay, in P. 497. were, <hi>viz. Good Men <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nne
+<pb n="8" facs="tcp:37528:5"/> true Prophets, alſo have been miſtaken in ſome things, and have had their weakneſs and failings,</hi> Sam. 16.16. 1 Kings 18.18. Rom. 11.3, 4.</p>
+            <p>And further, in P. 229. <hi>That we have always readily offered, and ſubmitted our words and writings, to the Teſtimony of Holy Scripture,</hi> &amp;c.</p>
+            <p>If this you really intend, then do you chooſe three or four of the learned'ſt Qua<g ref="char:EOLhyphen"/>kers, to meet with ſuch a number of the ſobereſt Miniſters of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> ſeeing you acknowledge their Creed is Orthodox) to help to make a Book of Retractions.</p>
+            <p>But, if you ſtill hold, that none can rightly judge of Doctrines, whether they are according to Scripture, or no, without the ſame degree of Gods Spirit, as the Prophets and the Apoſtles had, the Controverſie will not end, except you will ac<g ref="char:EOLhyphen"/>knowledge you have it in that degree.</p>
+            <p>
+               <q>The good Phyſitian (ſaith one) will try the Apothecaries Drugs, ere he make uſe of them for his Patients Body: And ſhall we not try the ingredients of that Religion (by the Holy Scriptures) which is accounted the Phyſick of our Souls? If the Gold be pure, why fears it the Touchſtone?</q>
+            </p>
+            <p>Therefore be not backward to come to the Teſt, and for your Aſſiſtance take (thoſe above) and if you ſee ſome failings in them, judge not, that they are not ac<g ref="char:EOLhyphen"/>cepted of God, for ſmall failings, not be ſo uncharitable, as <hi>E. B.</hi> ſeems to be, in P. 32. of his works, and P. 73. in the <hi>Switch, viz.</hi> 
+               <q>That God doth not accept of any, where there is any failing, <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>I have more Charity for our Antient friend <hi>Iſaac Pennington</hi> (above mentioned) that he was accepted of God tho' he had failings; for after he had Writ Queries that ſtrengthened ſome Men in the keeping on their Hats in Prayer time, retracted it, ſaying, <hi>viz. God knows (ſaith he) I did not willingly miſtake: Nay, truly the Pow<g ref="char:EOLhyphen"/>er was upon me, when I wrote thoſe Queries, but I did not underſtand the ſignification thereof;</hi> Jud. <hi>and the</hi> Jews, P. 69.</p>
+            <p>Therefore we have no need to boaſt, that we have a Spirit given us, beyond all our forefathers, <hi>Gre. Miſt.</hi> P. 89.</p>
+            <p>In Brief, a Man that does but once tell you, <hi>G. W.</hi> &amp;c. of your miſtakes, that they might be amended, had need have the ſame Armour of <hi>Grace</hi> in his Heart, as little <hi>David</hi> had, when he encountered Great <hi>Goliah,</hi> yea, as bold as <hi>Davids</hi> Wor<g ref="char:EOLhyphen"/>thies were, who ventured their Lives, to fetch Water from the <hi>Philiſtians</hi> Camp; to be ſure you will ſcoff at him at a high rate, Wound or Kill him, as you account that <hi>Criſp, Bug, Keith, &amp;c.</hi> are Dead to the Life of Truth, for oppoſing your Er<g ref="char:EOLhyphen"/>rors: Wounded them, it's true you have, for which God will Judge you; for every one of them at firſt only deſired, that you might bring your deeds to the Light, <hi>viz.</hi> to be tryed by Scriptures; but inſtead of Anſwering their Chriſtian deſires (for your good) you fall upon them, and wound them and made them grieve.</p>
+            <p>By this it further appears, you are no followers of the good <hi>Samaritan,</hi> he did heal where he had not wounded, you wound, and ſeek to make the wound big<g ref="char:EOLhyphen"/>ger: the Bleſſed Jeſus, you take not for an example, he went about doing good to his very Enemies, being Reviled, Reviled not again, 1 <hi>Pet.</hi> 2.23. <hi>Oh! How did his Lamb like Nature Weep, when he turned his Face towards hard hearted Jeru<g ref="char:EOLhyphen"/>ſalem, and thought of the miſeries that were coming upon thoſe his fierce Enemies.</hi>
+            </p>
+            <p>But you ſeek not to bind up the Wounds you have made in your Brethren, ſeek not to win them in a Spirit of meekneſs, but like rough <hi>Eſau,</hi> contend with them
+<pb n="9" facs="tcp:37528:5"/> fiercely, and rejoice if any ill befalls them, doing what in you lies to ſtarve them, by hindering their Trading. Your own Conſciences will tell you (if not feared) this is truth.</p>
+            <p>You are not come into the Patience of a Chriſtian, as <hi>David</hi> was in, when <hi>Shimei</hi> curſt him bitterly. Oh! how patiently <hi>David</hi> bore it, being ſenſible there was ſome Cauſe in himſelf, that God did permit <hi>Shimei</hi> to curſe him ſo often before his mighty Warriours.</p>
+            <p>Conſider this, you fierce diſpiſers of all thoſe who deſire your Reformation in Do<g ref="char:EOLhyphen"/>ctrine and Practice. You know where this curſed thing is, that cauſeth all this di<g ref="char:EOLhyphen"/>ſturbance; you ſtill hide it; but out it muſt come, and be beaten to powder.</p>
+            <p>What! do you think people are blind? Do not you ſay, <hi>They all have Light from the ſame Fountain of Light with you?</hi> Did not God give them this Light to know Truth from Error by?</p>
+            <p>Your making New Creeds, or Articles of Faith (according as your Oppoſers de<g ref="char:EOLhyphen"/>ſire you) will not do; they cannot believe you are ſincere until you retract thoſe Errors in your Books, printed before your late Creeds.</p>
+            <p>And if ſome of the Authors are dead, what then? you that have recommended their Works, by Epiſtles to them, muſt retract them; It's no ſhame to do it, it hath been often done for good men after death, by the Survivers in Chriſtianity. <hi>It's a Princely thing</hi> (ſaith a Worthy Author) <hi>to acknowledge an Error, and to forſake it.</hi> And this I have been a <hi>Quaker</hi> above 40 years, I took it well when any one ſaw a fault in me, and told me of it.</p>
+            <p>Is it not a fault in the Members of Two Meetings in <hi>Wickham</hi> in <hi>Buckinghamſhire,</hi> not to love one another? and is it not a great Fault that the <hi>Preachers</hi> in both Mee<g ref="char:EOLhyphen"/>tings, in pretending <hi>they both preach from the utterance of God<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Spirit,</hi> yet <hi>preach contrary to one another.</hi>
+            </p>
+            <p>To conclude, As to this my Loving Teſtimony to the Truth, I am ſure that thou <hi>George Whitehead</hi> will not hate and ſcoff me (as thou haſt done thy Oppoſer, in the <hi>Switch</hi>) if God's Grace is thy Guide. Oh! therefore <hi>George,</hi> Ariſe in the Authority of <hi>the Divine Grace,</hi> (that thy Name may be had in worthy Remembrance, when thy Body is in a Grave:)</p>
+            <p>And like good <hi>Joſiah,</hi> labour to get every thing removed (out of our <hi>Spiritual Iſ<g ref="char:EOLhyphen"/>rael,</hi> ſo called) that in any thing is contrary to <hi>Chriſt's inward and Spiritual Grace,</hi> and his <hi>Divine Precepts,</hi> in holy Scripture; that <hi>Jeremiah</hi>'s Propheſie may be fulfilled in us, <hi>viz. All that ſee them ſhall acknowledge them, that they are the Seed which the Lord hath bleſſed, Iſa.</hi> 61.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9. Men ſeeing our Innocent, Patient, Meek, Quiet, Hum<g ref="char:EOLhyphen"/>ble, Blameleſs and Inoffenſive Lives and Converſation, to the Glory of God for ever.</p>
+            <p>This in Truth is the real deſire of my heart, for the People called <hi>Quakers</hi> in ge<g ref="char:EOLhyphen"/>neral: God knows I lye not, becauſe ſo many of them are come ſo far out of the Wilderneſs (of this wicked World's Vanities) even to the very borders of <hi>Canaan</hi> (a reſting place in God's Grace).</p>
+            <p>It pi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies my Soul. that any ſuch Innocent Souls ſhould fall ſhort of that reſt, by hearkening to the Preachings of the Lifeleſs Preachers (above-mentioned) who are Taught to preach neither by Grace nor Holy Scriptures, but what comes next into their Imaginations (which is a Rock) that many Souls have been ſplit upon.</p>
+            <closer>
+               <dateline>
+                  <hi>Bedford,</hi>
+                  <date>
+                     <hi>Nov.</hi> 25. 1699.</date>
+               </dateline>
+               <signed>
+                  <hi>I am a Lover of the Souls of all Men,</hi> W. M.</signed>
+            </closer>
+         </div>
+         <div type="appendix">
+            <pb n="10" facs="tcp:37528:6"/>
+            <head>An Appendix.</head>
+            <p>BY way of Appeal to the moſt ſerious amongſt the People called <hi>Quakers</hi> (that by Grace and Holy Scriptures) they may conſider (in the fear of the Lord) Whether ſome of our confident <hi>Teachers,</hi> were not the cauſe of the many Im<g ref="char:EOLhyphen"/>priſonments, <hi>&amp;c.</hi> we endured (I cannot number mine) in the time of <hi>K. C.</hi> II. who in the firſt year of that Kings Reign, <hi>viz.</hi> 1660, the ſuffering Clergy of the Church of <hi>England,</hi> being juſt coming out of the ſuffering they endured in <hi>Olivers</hi> time, <hi>&amp;c.</hi> that one of our Teachers ſhould Salute them in the following manner, in his Book called, A ſtrict account of <hi>Babylons</hi> Merchants, <hi>&amp;c.</hi> By <hi>Richard Crane,</hi> Printed for <hi>Thomas Simons</hi> at the <hi>Bull</hi> and <hi>Mouth,</hi> &amp;c.</p>
+            <q>
+               <p>Go to (ſaith <hi>R. Crane</hi>) ye Merchants of Babylon, who are now in this day bringing forth, and expoſing to ſale your old Cankered, Ruſty, and Moth-eaten Ware. Rage not, neither be angry, if you be brought to your <hi>Rule</hi> which you ſay is the <hi>Scripture.</hi>
+               </p>
+               <p>And tho' you gather ſome heat from the <hi>Sun,</hi> [<hi>K. C.</hi> II.] that is newly ariſen, and from it receive ſome ſmall Vigor, and like the <hi>Inſects,</hi> and the <hi>Reptilia</hi> of the Earth, who creep out of their holes at the <hi>Suns</hi> warmth, by which they are vivifi<g ref="char:EOLhyphen"/>ed yet know ſuch are not <hi>Permanent,</hi> but the withdrawing of the <hi>Suns</hi> heat from them, ſoon return to their holes, and ſome Periſh; you may take this as a Figure.</p>
+               <p>
+                  <hi>For there is a cup prepared for you, being mixed with Plagues, Woes, Miſeries, Sorrows, Torments, and Eternal Burnings,</hi> which you ſhall not paſs, for you are found from the Lord God worthy, and a trebble portion is to be given unto you.</p>
+               <p>Being Ignorant of the Soul, or what it is, your Cure, is you know not what, or to what, and ſo truly Phyſitians worth nothing.—Your Medicine, which you pretend to cure Souls with, I would ask whether it be a <hi>Simple,</hi> or a <hi>Compound,</hi> being made up of ſo many <hi>Fragments</hi> of divers ſorts, therefore a <hi>Compound.</hi>
+               </p>
+               <p>As the firſt <hi>Ingredient</hi> in your <hi>Compoſition,</hi> ſo much cryed up, is your Prayer, called <hi>Common;</hi>
+                  <note n="*" place="bottom">
+                     <p>Which <hi>W. Tomlingſon</hi> the ſame year <hi>1660.</hi> in his word of Information, compares to the Whore<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> cup, mentioned in the Revelations.</p>
+                     <p>
+                        <hi>R. Farnſworth, 2</hi> years after that, in his Plea to the Biſhops, Labours to prove out of the Common Prayer, that the Quakers agree with it in Principle, Doctrine and Practice.</p>
+                     <p>Alſo <hi>Fra. Lea,</hi> in his Looking Glaſs for Epiſcopal People, <hi>1674.</hi> writes ten approved Prayers out of the Common Prayer Book, to ſhew how the Quakers agree with it, ſo deſerve Liberty of Conſcience, that all may come out of Error, the Quakers have long prayed for, <hi>(ſaith he)</hi> Even ſo do now the op<g ref="char:EOLunhyphen"/>poſers of the Quakers Error, and that <hi>J. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ield</hi> (above named) will prove they are all of one mind and heart; as be uſed to ſay they were, then let him Reconcile his Brother <hi>Preachers</hi> ſayings above.</p>
+                  </note> and indeed ſo it is, I hardly know any thing more <hi>Common,</hi> except <hi>Curſing</hi> and <hi>Swearing.</hi>
+               </p>
+               <pb n="11" facs="tcp:37528:6"/>
+               <p>In ſome things you parallel <hi>Simon</hi> and <hi>Elimas</hi> the <hi>Sorcerer, Act.</hi> 13.8, 23— you are even diſcovered and known to be as you are, <hi>viz. Antichriſts, Decei<g ref="char:EOLhyphen"/>vers, Sorcerers,</hi> and <hi>Ravening Wolves—Flames, Flames, Flames of Fire, is pre<g ref="char:EOLhyphen"/>pared by the Lord to conſume you as dry ſtubble.</hi> In the Light of the Eternal God I have beheld you, and all your Actions, and take them altogether, and Rake the Pit of confuſion, and bind up your ſelf in a bundle.—If I ſhould parallel you with <hi>Salvage Beasts,</hi> I could not truely do it, I think, be they never ſo fierce— but Men of Prey, ſuch as you are, is quite out of kind, and not to be parallel'd by any thing that draweth breath.</p>
+               <p>— <hi>Oh! Full of all Subtilly, Children generated of the ſeed of deceit, brought forth out of the Womb of Wickedneſs, and nouriſhed up at the Breaſts of Witchcraft,</hi>
+                  <note place="margin">The true Light certainly did not move this Man to Rage at this rate.</note> 
+                  <hi>and rocked in the Cradle of Idle<g ref="char:EOLhyphen"/>neſs,</hi> Wo is me, for the day which I ſee is coming upon you from the Lord, and all them that you have made drunk, by putting your bottle of Poyſon to their Noſes, who have drunk deep, and ſo are become one in Nature with you, it had been better <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> never been born, it had been better for you, that you had been ſtrangled in your Mothers Wombs, and ſtill births had been preſented to them, than Living Children into their Arms. <hi>Oh! What ſhall I ſay concerning you?</hi> Gods everlaſting decree is ſealed againſt you, burnings, burnings, burnings, with unqu<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>able fire, is your portion from the Lord God of Heaven and Earth.</p>
+               <p>Your <hi>Organs,</hi> your <hi>Singing-Men,</hi> and <hi>Boys</hi> with <hi>Surplice, Tippits, Sc<gap reason="illegible" resp="#UOM" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap> Long Garments</hi> and <hi>Girdles,</hi> with your invented <hi>Prayer</hi> called <hi>Common,</hi> with your <hi>Preaching,</hi> and the beſt of your Sacrifices, enters into the ears of the Eternal God—(Nay) you are highly miſtaken, a <hi>pure</hi> God muſt have <hi>pure</hi> praiſe, God praiſes God<note n="*" place="margin">Mark this well.</note>; his praiſe and worſhip for ever and ever, is from <hi>thee</hi> to <hi>thee:</hi> now if you cannot read this let your Mouths for<g ref="char:EOLhyphen"/>ever be ſtopped; Ceaſe your Invented Inſtruments for Worſhip, for an Evil Savour doth your Sacrifices ſend forth, even a loathing to the Lord God of Heaven and Earth.</p>
+               <p>
+                  <hi>But the God which you Imagine, let him be Worſhipped according to your Imaginations and Inventions, and think not to mock the</hi> Eternal <hi>God, by your Devices—the</hi> Jews <hi>knew him not, who came in the</hi> Figure <hi>or</hi> Fleſh.— <hi>Oh!</hi> I have ſeen Eternity, I have ſeen Eternity, and a dreadful day is <hi>VERY NEAR</hi> at hand to be revealed; Oh! The overflowing ſcourge; Oh! The Beſome of Deſtructi<g ref="char:EOLhyphen"/>on. Oh! The Plagues and Vengeance that is to be poured upon the Wicked in this Nation, both Prieſt and People; Howl, Howl, Hireling Prieſts of all orders, for the Wine<g ref="char:EOLhyphen"/>preſs of the wrath of God Almighty is <hi>EVEN NEAR</hi> to be trod, into which you are to be caſt; for the Lord God hath ſpoken it, and he will not repent, a trebble portion, a trebble portion of the Plagues of God Almighty, you are to have above all others, <hi>[Thus far</hi> R. Crane.]</p>
+            </q>
+            <pb n="12" facs="tcp:37528:7"/>
+            <p>☞ Obſerve, Chriſtian Reader, what Aſtoniſhing things are theſe, which this man pretends came thro' him from God Almighty. Oh, Blaſphemous! to father all their Malice upon the Merciful God.</p>
+            <p>But we Poor Ignorant Quakers were made ſo blinde to believe, becauſe of their ſufferings, that ſuch were true Prophets ſent of God, in this Age, pretending they ſpoke from the mouth of the Lord, need not ſtudy or meditate what to preach (as <hi>Paul</hi> adviſed <hi>Timothy,</hi> 1 <hi>Tim.</hi> 4.15.) As if they were Conjurers that took a Text of Sctipture to begin a Sermon, <hi>See p.</hi> 7. in <hi>G. Fox Sauls</hi> Errant.</p>
+            <p>And that they needed neither Scriptures nor Books, as a means to help their Preachers, and that they may be good Miniſters without the help of the Scripture, (as the above named <hi>Joſeph Clark,</hi> pleaded with <hi>G. Keith</hi> in my houſe) for they had all revealed in them, that they were to preach and declare, and by the ſame Spirit Young Boys and Girles Preach now, and have a long time from the Imaginations of their Brains, or what comes next to the Tongues end, for if this Spirit was of God, it would allow the Holy Scriptures to be ſometimes read in their Religious Meetings, becauſe we are certain the Scriptures were given forth by God's Spirit.</p>
+            <p>Indeed, their firſt Preachings won many of us to become good moral Heathens, expecting Salvation only by obeying the Light within us:<note place="margin">And <hi>John Bunyan,</hi> art thou finding fault <hi>(ſaith</hi> G.F.) becauſe Men wear no Hatbands, and eat and drink Bread and Water, &amp; caſt by their Pride? <hi>G. Miſt.</hi> p. <hi>211.</hi> And ſince have taken up Pride again.</note> when alas! Salvation comes by a Saving Faith in Jeſus of <hi>Nazareth,</hi> as he died for our ſins, (now at God's Right Hand) making Interceſſion for ſinners, that all men might have a day to repent in; for from him comes all the Grace, that all men have, <hi>to teach them to deny ungodlineſs,</hi> Titus 2.11.</p>
+            <p>This Erring Spirit taught us not to make Chriſt Jeſus (as he is in Heaven) the object of our faith; but hath taught us that Jeſus of <hi>Nazareth</hi> appeared in the World for a ſhort time, called a Figure (by <hi>R. C.</hi> as above) and when he diſappeared in the World, is no more.</p>
+            <p>But know, ye Neglecters of Meditating, or Reading the Scriptures in your Mee<g ref="char:EOLhyphen"/>tings, 1 <hi>Tim.</hi> 4.15. <hi>That all Men ſhall be Judged at the Laſt Day, by that MAN Chriſt Jeſus, Acts</hi> 17.31.</p>
+            <p>Object. <hi>If ſome Quakers ſay, That I highly commend the Prayers made by ſome of the Church of</hi> England; <hi>and do not their Books want Retractions (in ſome things) as well as our Books?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It's true, I do commend their Prayers, and ſo doth <hi>Fr. Lee,</hi> one of your Teachers, in his <hi>Looking-Glaſs.</hi> More thereof will follow.</p>
+            <p>And what in their Books is needful to be retracted, they will not be ſo hardly brought to do it as you are, nor cover them ſo long as you have done, and as the Preaching Elders have done near me, who now confeſs, <hi>They knew there were Er<g ref="char:EOLhyphen"/>rors in our Friends Books before their Controverſie with</hi> G. K. The more is their ſhame to cover Tranſgreſſions ſo long (from us Hearers) to keep in favour with thoſe that cover Errors by Sophiſtry in their New Books.</p>
+            <p>Dr. <hi>Scott</hi> (that excellent Pen-man) did commit an Error in a book written in his younger years, called, <hi>The Chriſtian Life,</hi> 1ſt <hi>Vol.</hi> which I hope will be retracted, <hi>viz.</hi> in <hi>p.</hi> 282, <hi>&amp;c.</hi> He ſeems to encourage Chriſtians in their Warfare, <hi>to Mirth, Feſtivities and Raileries of Fancy,</hi> &amp;c. which Chriſt condemns, <hi>Mat.</hi> 12.36. But
+<pb n="13" facs="tcp:37528:7"/> for his 5th <hi>Vol.</hi> of <hi>the Chriſtian Life,</hi> I know not many better books, except the Bible.</p>
+            <p>And likewiſe it's to be hoped (now that God has given more Light) the Church of <hi>England</hi> will by the help of the <hi>Inward and Spiritual Grace,</hi> remove thoſe Offen<g ref="char:EOLhyphen"/>ces that have kept out ſo many Diſſenters from coming in into them; for if they do not come in (as one) into the Truth as it is in Jeſus, <hi>O then, good God, when will the Kingdoms of this World become our Lord Chriſts?</hi>
+            </p>
+            <p>
+               <hi>Luther,</hi> and other our firſt Reformers from Popery, had more Light from God than the Papiſts had or have: <hi>B. Latimer,</hi> Martyr, had more Light from God a little before he dy'd, than he had when he thought he could not be damned if he had been in a <hi>Friar's Coul, Act. and Mon. p.</hi> 1325. So that I truſt in God he will be pleaſed to illuminate many of the Church of <hi>England</hi>'s Miniſters, that they will ſee very great need to win all people to come to them; which no doubt will ſoon be accompliſhed, after once their Lives and Converſation agree with their Doctrines. For it is a worthy ſaying of a Son of that <hi>Church,</hi> viz <hi>When we have uſed all the Arguments, and the beſt Vindication of our ſelves, and of our Church, it is Holineſs of Life is the beſt and moſt prevalent Apology.</hi>
+            </p>
+            <p>Now follows the Ten approved Prayers (the above-named <hi>Fr. Lee</hi>) collected out of the <hi>Common Prayer,</hi> I hope for a good End.</p>
+            <list>
+               <item>
+                  <hi>Almighty God, which ſheweſt to all Men that be in Error, the Light of thy Truth, to the Intent that they may return into the way of Righteouſneſs,</hi> &amp;c.</item>
+               <item>
+                  <hi>Lord, from whom all good things do come, grant us thy humble Servants, that by th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> holy Inſpiration we may think thoſe things that be good,</hi> &amp;c.</item>
+               <item>
+                  <hi>Almighty God, unto whom all Hearts be open, all deſires known, and from whom no Secrets are hid, cleanſe the thoughts of our hearts by the Inſpiration of thy holy Spirit,</hi> &amp;c.</item>
+               <item>
+                  <hi>That it may pleaſe thee to bleſs and keep the Magiſtrates, giving them Grace to exe<g ref="char:EOLhyphen"/>cute Juſtice, and to maintain Truth.</hi>
+               </item>
+               <item>
+                  <hi>That it may pleaſe thee to give to all thy people increaſe of Grace to hear meekly thy Word and to receive it with pure Affection, and to bring ſorth the Fruits of the Spirit.</hi>
+               </item>
+               <item>
+                  <hi>That it may pleaſe thee to bring into the way of Truth all ſuch as have erred and are deceived.</hi>
+               </item>
+               <item>
+                  <hi>That it may pleaſe thee to defend and provide for the Fatherleſs Children and Widows, and all that be deſolate and oppreſſed.</hi>
+               </item>
+               <item>
+                  <hi>That it may pleaſe thee to forgive our Enemies, Perſecutors and Slanderers, and to turn their Hearts.</hi>
+               </item>
+               <item>
+                  <hi>Grant us, O Lord, to learn to love our Enemies, by the Example of thy Martyr St.</hi> Stephen, <hi>who prayed for his Perſecutors,</hi> &amp;c.</item>
+               <item>
+                  <hi>Almighty God, by whoſe Providence thy Servant</hi> John Baptiſt <hi>was wonderfully b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rn, and ſent to prepare the way of thy Son our Saviour, by preaching Repentance; make us ſo to follow his Doctrine and holy Life, that we may truly repent, according to his prea<g ref="char:EOLhyphen"/>ching, and after his Example, conſtantly ſpeak the Truth, boldly rebuke VICE, and pati<g ref="char:EOLhyphen"/>ently ſuffer for the Truth,</hi> &amp;c.</item>
+            </list>
+            <p>Since it hath pleaſed God, by his <hi>Grace</hi> to convince me, <hi>That Baptiſm with Water and the Lords Supper</hi> are to continue in the Church until Chriſt's coming again in the
+<pb n="14" facs="tcp:37528:8"/> ſame Body in which he aſcended, to Judge the World; by which I was ſtirred in Spirit to ſearch the holy Scriptures, and therein came to underſtand and believe, That the Holy Ghoſt was (if I may ſo ſpeak) ſcattered, or poured upon the Apoſtles, <hi>Acts</hi> 2. 3. ſeeming to the Eye like Cloven Tongues, or as flames of fire will ſo ſeem by the like figure, I do believe Water was ſprinkled, or caſt upon thoſe 3000 (young and old) that were converted by <hi>Peter</hi>'s Sermon, and ſo baptized the ſame day, and not plunged over Head and Ears in Water (as ſome think) <hi>ver.</hi> 41. The ſame may be underſtood of the Jaylor and his Family, who were <hi>converted, and baptiſed with Water at mid-night,</hi> Ch. 16.33.</p>
+            <p>And alſo ſince it hath pleaſed God to further enlighten me thro conſenting unto his Commands in H. Scripture, I am enabled to make a full diſcovery, how <hi>Satan</hi> has beguil'd ſuch a number of our young Preachers, which was by hearkening to thoſe Ancient Preachers, that made them believe there is but <hi>one <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight in all Men.</hi>
+            </p>
+            <p>As <hi>Firſt,</hi> They miſtaking that Text, <hi>John</hi> 1.9. <hi>That was the true Light which en<g ref="char:EOLhyphen"/>lighteneth every Man that cometh into the World.</hi> From thence ſuppoſing, That all Men were enlightned with a Light of Chriſt Jeſus, from their Mothers Wombs, ſuf<g ref="char:EOLhyphen"/>ficient to Salvation, as particularly <hi>G. Fox,</hi> in p. 20. <hi>Gr. Myſt.</hi> ſaith,—<hi>Where there is Life in an Infant, there is Light.</hi> And in p. 42. diſapproves his Adverſary for ſay<g ref="char:EOLhyphen"/>ing, <hi>That no Man by that Native Light inherent in him, had power to believe,</hi> &amp;c. And to the ſame purpoſe ſee p. 15. in <hi>W. Pen</hi>'s <hi>Primitive Chriſtianity.</hi>
+            </p>
+            <p n="2">2. Thus it appears they own but <hi>one Light</hi> that we were born with. This <hi>Light,</hi> or Underſtanding, tho it be called, <hi>The Candle of the Lord, Prov.</hi> 20.27. which reproves for ſome ſins, yet is but a dim Light to ſee ſpiritual things by; but when it ſhall pleaſe God to Lighten this Candle by the Influence of his <hi>Divine Grace,</hi> and H. Scriptures, then the Soul is Light in the Lord.</p>
+            <p n="3">3. So that our young Preachers (laying aſide the Light of the H. Scriptures) and Preaching only this common Light in Mankind, muſt needs Preach falſe Doctrine, and other confuſed ſtuff; ſo that it has led too many of them to think the H. Scrip<g ref="char:EOLhyphen"/>tures are no help to make a Miniſter, and has ſo exalted them, that they think they have the ſame <hi>Degree</hi> of Immediate Revelation as the Apoſtles had; ſee p. 213. <hi>Gr. Myſt.</hi> But they may wait long enough before they attain to that <hi>Degree</hi> of God's Spirit the Apoſtles had: For thoſe Diſcoveries the Apoſtles had, were to con<g ref="char:EOLhyphen"/>firm a belief in peoples hearts of the miraculous Birth, Sufferings, <hi>&amp;c.</hi> of our bleſſed Redeemer. And Mortal Man (whoſe heart is deceitful) muſt no more expect that God will ſo far truſt them with ſuch a large meaſure of heavenly Treaſure as he did the Apoſtles, the Propheſie of <hi>Joel</hi> being fullfilled in them. Yet God in mercy now gives (to all the ſincere believers in his only Son Jeſus of <hi>Nazareth</hi>) ſuch a meaſure of his Divine Grace, as will both deliver and preſerve them from the evil of the World, <hi>and bring them to eternal Life and Salvation, Titus</hi> 2.11.</p>
+            <p n="4">4. We the hearers of ſuch Preachers, that have ſo long preached from their own Spirit (without the H. Scriptures) over whom Satan can get advantage to Transform Himſelf as an Angel of Light, by which way he gets the Name, of <hi>an Angel of Light;</hi> we muſt needs, I ſay, by hearing ſuch Preachers be enticed not to endure ſound Doctrine. But if I ſhould write of the diverſe Confuſions, this Spirit hath led us to this 40 Years paſt, it would make a large Book: and this I know by Ex<g ref="char:EOLhyphen"/>perience, that where this Spitit Rules, they cannot with any Love read any of the Good Doctrines written in the Books of any Miniſter of the Church of <hi>England,</hi>
+               <pb n="15" facs="tcp:37528:8"/> tho' it be Dr. <hi>Goodmans</hi> Penitent Pardon'd — or Dr. <hi>Scots</hi> Chriſtian Life. <hi>Vol.</hi> 5th. but for this my Book, they will warn as many as they can, not to read it, for fear of Infection. <hi>O Lord open their Eyes,</hi> &amp;c. <hi>for thou knoweſt I have Love for them;</hi> For one of them hath given this Good Councel to them all, <hi>viz. The beſt way to recover the deceived is to diſcover the deceiver.</hi>
+            </p>
+            <p n="5">5. Now to get clear out of Babyloniſh Confuſion, I do adviſe all amongſt them that fear the Lord, to whom this may come, yea and all Diſſenters, (ſo called) to come and hear ſound Doctrine, from ſuch as have ſtudied, or thorougly meditated in the H. Scriptures, for too many diſſenters want Chriſtian Love to each other, and it is apparent that ſome of their Preachers ſtrive more to encreaſe the Num<g ref="char:EOLhyphen"/>ber of their Hearers (for outward gain) than to excel one another in a Chriſtian Life.</p>
+            <p>Now, I appeal to every honeſt Impartial Reader, whether the Preachers of the Church of <hi>England</hi> have not more Chriſtian Charity to the Diſſenters in General, than they have to one another, for too many of the Diſſenters are for the ſtraight<g ref="char:EOLhyphen"/>ening each others Liberties in many things, while the Church of <hi>England</hi> grants them all Liberty of Conſcience, yea, and moſt Chriſtianly invites them to come in<g ref="char:EOLhyphen"/>to Communion with them for a Reformation of manners, and to help them to re<g ref="char:EOLhyphen"/>buke Vices boldly, and help each other in their Chriſtian Warfare, which to do would be the Joy of <hi>Chriſtendom,</hi> ſtop the mouths of Atheiſts, yea, and it would be to the Honour and Glory of Him, whom we call our Lord and Maſter, from whom we take the Name <hi>Chriſtian,</hi> He who Dyed, Roſe, and Aſcended, to win us to Love him and one another: How doth the Church of <hi>England</hi> entreat you to be Reconci<g ref="char:EOLhyphen"/>led, to come and Worſhip God together, to hear the foundeſt Doctrine Preached, to pay nothing therefore, but what our Kings and Parliament Eſtabliſhed by Law be<g ref="char:EOLhyphen"/>fore we were born; and their Condeſcending Love to us is ſo much, that they will not impoſe any thing upon us againſt Good Conſcience, and that, if you do not think good to be with them at their <hi>Faſts,</hi> or <hi>Feaſts, &amp;c.</hi> you may ſtay at home at ſuch times, they moſt Chriſtianly concluding thus, <hi>viz.</hi>
+            </p>
+            <q>
+               <p>God direct you, and us all. To his Grace I Commend you, and the Inffuences of his Bleſſed Spirit, to ſhew you what great things it is to do in your Power for him and his Church, and give you a Heart to do them, that it be not laid to your Charge.</p>
+               <p>
+                  <hi>Ob.</hi> But, if ſome Phariſaical Quaker ſhould object, ſaying, This man would have us meet with ſuch ſinners, as from 7. <hi>to</hi> 70; <hi>Cry Lord have Mercy upon us miſe<g ref="char:EOLhyphen"/>rable ſinners,</hi> when he knows, he cannot ſay that he ever heard us this 40 Years, Pray in our Meetings to God for Pardon of ſin, but has often heard us, thank God for his preſence in Meettings.</p>
+               <p>
+                  <hi>Anſwer,</hi> The more are you like to the Phariſees who was not for Meeting, Eat<g ref="char:EOLhyphen"/>ing or Drinking with ſinners, they thought themſelves ſo Holy, but our Bleſſed Saviour choſe rather to meet with them, than the moſt Zealous Phariſee —<hi>Then drew near unto him, all the Publicans and ſinners for to hear him, and the Scribes and Phariſees Murmured, ſaying, This Man receiveth ſinners,</hi> &amp;c. <hi>Mat.</hi> 9.10, 11,</p>
+               <p>
+                  <hi>Ob.</hi> But if you further object: That ſuch poor and inſufficient Miniſters are placed in many Churches (ſo called, tho' they mean the People to be the Church) which rather drive Men, than give them Tollerable Encouragement to attend their Miniſtry on hopes of Improvement.</p>
+               <pb n="14" facs="tcp:37528:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:37528:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:37528:10"/>
+               <p>
+                  <hi>Anſwer,</hi> The ſame may be objected againſt the greateſt number of the Preaching Quakers, being much more inſufficient: The Biſhops cannot hinder their Inſtituti<g ref="char:EOLhyphen"/>on, (in many places) but ſome are ſenſible of the great eaſineſs of ſome in their Ad<g ref="char:EOLhyphen"/>miſſion into Orders, by <hi>Symony, &amp;c.</hi> which the Laws are very ſtrict againſt, when known. Therefore until things be ſo amended that none ſhall be admitted to Preach, whoſe Lives and Converſation becomes not Chriſtianity, You have Liber<g ref="char:EOLhyphen"/>ty to hear what Miniſter you pleaſe, tho' not of your Pariſh, that there may be no ſeparation wholly.</p>
+            </q>
+            <p>
+               <hi>Oh! Let our Prayers</hi> be as <hi>Davids,</hi> viz. <hi>to underſtand our Errours. Pſa.</hi> 19.20.</p>
+            <p>The Teſtimony of <hi>J. W.</hi> an Eminent Quaker in <hi>Bedfordſhire,</hi> (having peruſed the <hi>Switch</hi> for the <hi>Snake,</hi> which he put into my hand, <hi>December</hi> 9. 1699.) not doubting but that <hi>J. R.</hi> another Eminent Quaker there, is of the ſame mind, <hi>viz.</hi>
+            </p>
+            <p>Books of Controverſie about Religion, written by the Dictates of ſelfiſh Wiſdom, that lead to Envy and Evading Quibbles, of which <hi>England</hi> now too much abounds, are or as little benefit for the Promotion of True Religion, and building up that Holy Faith in Peoples Hearts <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> works by Love; as the confounding of Lan<g ref="char:EOLhyphen"/>guages helpt forward the Building of Babels Tower, as may be ſeen in <hi>Gen.</hi> 11. Upon which I have ſeen this following Obſervation made, (<hi>viz.</hi>)</p>
+            <q>
+               <l>Bring me (quoth he) a Trowel Quickly quick,</l>
+               <l>One brings him up a Hammer, hew this Brick;</l>
+               <l>Another bids, and th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they cleave a Tree,</l>
+               <l>Make faſt this Rope, and then they let it flee;</l>
+               <l>One calls for Planks another Morter lacks,</l>
+               <l>They bring the firſt a <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ne; the laſt an Ax;</l>
+               <l>One would have <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and him a ſpade they give;</l>
+               <l>Another askes a <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and gets a Sive;</l>
+               <l>Thus Croſly Croſt, they p<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e and rail in vain,</l>
+               <l>What one hath made, another ſpoils again;</l>
+               <l>This makes them leave their work, and like mad fools,</l>
+               <l>Scatter their ſtuff, and tumble down their tools.</l>
+            </q>
+            <p>Even ſo, O Lord, if it ſtands with thy bleſſed will, haſten the day of ſcattering all envious ſtuff of Contention, that the Inſtruments thereof may caſt down their Tools, and the People that fear thee, and deſire to live at Peace, may ſay as thy Holy Prophet <hi>Iſaiah,</hi> in his 46. Chap. 1, 2. ver. ſaith, <hi>and hear thy voice,</hi> as in the third and fourth verſes thereof.</p>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
